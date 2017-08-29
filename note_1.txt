@@ -12,3 +12,5 @@ goertek
 This is for Git user.
 
 git 
+
+this is from PC
