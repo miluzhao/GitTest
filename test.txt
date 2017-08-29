@@ -1,4 +1,8 @@
 this is a test!
 
 
+<<<<<<< HEAD
 this is test for merge in master.
+=======
+this is test for merge.
+>>>>>>> develop
