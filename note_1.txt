@@ -10,3 +10,8 @@ milu...
 goertek
 
 arm
+
+git 
+
+this is from PC
+
