@@ -9,9 +9,3 @@ milu...
 123
 goertek
 
-arm
-
-git 
-
-this is from PC
-
